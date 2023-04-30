@@ -1,0 +1,16 @@
+.hnumbers{
+    margin: 20px 0;
+    text-align: center;
+}
+.number{
+    display: inline-block;
+    width: 50px;
+    border-radius: 25px; 
+    border: 1px solid black;
+    background-color:lightcoral;
+    padding: 15px 0;
+    margin: 0 10px;
+    text-align: center;
+
+
+}
